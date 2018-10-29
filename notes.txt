@@ -1,0 +1,16 @@
+Hints:
+set timeouts to locks, to expire (timelocks)
+this requires two things 
+- implement what happens when the timeout expires
+- study which thing takes what time
+
+- construct the program on basis o 
+> theoretically not knowing anything from the context
+-
+> knowwing something from the context 
+- setting priority, time etc. 
+
+separate the purpose of the job 
+- is it computing, IO, communication?
+separating the tasks as much as you can
+since for example communication (messaging) is time consuming.

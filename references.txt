@@ -1,0 +1,3 @@
+Is Parallel Programming Hard ?
+PMU - performance metric.
+
